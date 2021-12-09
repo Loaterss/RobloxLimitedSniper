@@ -1,6 +1,6 @@
 # Info
 this is version 2.1
-version 2 will support more options
+version 3 will support more options
 (install python: https://www.python.org)
 the program will buy any limited item with a price of 100 or below
  
